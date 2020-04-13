@@ -1,0 +1,8 @@
+{
+    "python.venvFolders": [
+        "/home/spl/ml",
+        "/home/spl/ml/tf2.0"
+    ],
+    "python.venvPath": "/home/spl/ml",
+    "python.pythonPath": "/home/spl/ml/tf2.0/bin/python"
+}
